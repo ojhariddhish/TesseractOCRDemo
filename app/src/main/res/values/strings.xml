@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesseractOCRDemo</string>
+    <string name="run_ocr">Run OCR</string>
+</resources>
